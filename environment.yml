@@ -1,0 +1,12 @@
+name: MLDS
+dependencies:
+  - python=3.11
+  - pip
+  - ipykernel
+  - pip:
+    - numpy==1.26.4
+    - pandas==3.0.1
+    - scipy==1.17.1
+    - torch==2.2.2
+    - torch_geometric==2.7.0
+    - matplotlib==3.10.8

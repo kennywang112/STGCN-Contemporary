@@ -1,0 +1,11 @@
+__pycache__
+.DS_Store
+dataset/PeMSD7/V_228.csv
+dataset/PeMSD7/V_1026.csv
+dataset/PeMSD7/W_228.csv
+dataset/PeMSD7/W_1026.csv
+
+.idea/
+Results/
+*.pth
+*.csv
